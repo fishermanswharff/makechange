@@ -2,7 +2,7 @@
 
 ##Imagine you landed a new job as a cashier...
 
-*Your quirky boss found out that you're a programmer and has a weird request about something they've been wondering for a long time.
+**Your quirky boss found out that you're a programmer and has a weird request about something they've been wondering for a long time.**
 
 ##Write a function that, given:
 * an amount of money
